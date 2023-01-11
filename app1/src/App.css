@@ -1,0 +1,17 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+.nav{
+  background-color: pink;
+  color:white;
+  height: 80px;
+}
+.nav ul{width:100%;
+display: flex;
+justify-content: space-around;
+list-style: none;
+align-items: center;
+height: 80px;
+}
